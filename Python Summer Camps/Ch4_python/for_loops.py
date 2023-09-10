@@ -10,3 +10,18 @@ if you get stuck look back at the slides, or ask for help
 Name: 
 
 """
+
+# movies_list = ["xygghhghggh", "y", "z"]
+
+# movies_list.append("t")
+
+# for x in movies_list:
+#     print(movies_list)
+
+
+# screen_open = True 
+
+
+food_menu = {"pizza": "18", "fries": "2", "milkshake": "3"}
+while food_menu.values() != "18":
+    print(food_menu.key())
